@@ -28,4 +28,4 @@ To create a virtual environment, follow the steps below:
 <br>
 
 > [!NOTE]
-> Remember that if you want more information or to see where I go deeper into the subject, you can check my [Notion (Spanish)](https://www.notion.so/PYTHON-f6ee73edc738452c93c872352d16d6a6?pvs=4)
+> Remember that if you want more information or to see where I go deeper into the subject, you can check my [Notion (Spanish)](https://industrious-marmoset-c90.notion.site/PYTHON-f6ee73edc738452c93c872352d16d6a6?pvs=4)
